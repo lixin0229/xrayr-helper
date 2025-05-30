@@ -1,7 +1,7 @@
 #!/bin/bash
 
 INSTALL_PATH="/usr/local/bin/edit_xrayr"
-SCRIPT_URL="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/xrayr-helper/main/edit_xrayr.sh"
+SCRIPT_URL="https://github.com/lixin0229/xrayr-helper/blob/main/edit_xrayr.sh"
 
 echo "Downloading edit_xrayr..."
 curl -fsSL "$SCRIPT_URL" -o "$INSTALL_PATH"
